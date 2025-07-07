@@ -20,7 +20,7 @@ I'm also the owner of **Duppins Technology**, a company focused on delivering pr
 
 ## 📂 Featured Projects
 - [Landing Page Manager](https://github.com/oduppinsjr/landing-page-manager) — WordPress plugin for managing marketing landing pages  
-- [RaidAssist Widget](https://github.com/oduppinsjr/rapidassist-widget) — Custom PHP Google App Engine widget to assist customers with contacting the host company for support
+- [RaidAssist Widget](https://github.com/oduppinsjr/rapidassist-widget) — Custom PHP Google App Engine widget for contacting support
 - [Sabre Scribe Scripts](https://github.com/oduppinsjr/sabre-scribe-scripts) — Collection of operational automation scripts for travel agents  
 - [Gravity PDF Templates](https://github.com/oduppinsjr/gravity-pdf-templates) - Custom built PDF templates using HTML and the mPDF framework
 
