@@ -20,9 +20,9 @@ I'm also the owner of **Duppins Technology**, a company focused on delivering pr
 
 ## 📂 Featured Projects
 - [Landing Page Manager](https://github.com/oduppinsjr/landing-page-manager) — WordPress plugin for managing marketing landing pages  
-- [WhiteRail Assist](https://github.com/oduppinsjr/whiterail-assist) — Custom PHP travel assistant tool  
-- [Sabre Scribe Scripts](https://github.com/oduppinsjr/scribe-scripts) — Collection of operational automation scripts for travel agents  
-- [Gravity PDF Templates (coming soon)](https://github.com/oduppinsjr/gravity-pdf-templates)
+- [Whiterail Assist](https://github.com/oduppinsjr/whiterail-assist) — Custom PHP travel assistant tool  
+- [Sabre Scribe Scripts](https://github.com/oduppinsjr/sabre-scribe-scripts) — Collection of operational automation scripts for travel agents  
+- [Gravity PDF Templates](https://github.com/oduppinsjr/gravity-pdf-templates) - Custom built PDF templates using HTML and the mPDF framework
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oduppinsjr)
