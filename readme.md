@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Odell Duppins
+# 👋 Hi, I'm Odell Duppins Jr
 
 I'm a web developer, automation builder, and operational problem-solver working at the intersection of travel tech and WordPress ecosystems.
 
